@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: SPOUG
+short_title: spoug
+description: SharePoint og Office 365 bruger gruppe
 baseurl:
 permalink: "/:path/"
 defaults:
