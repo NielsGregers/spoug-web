@@ -59,6 +59,6 @@ Bestyrelsen er i fuld gang med at sammensætte programmet for 2019. Men imens vi
 
 [Udfyld spørgeskema](https://forms.office.com/Pages/ResponsePage.aspx?id=jyLcefLIFkCL8LmQtscumDXy7pvYSc1JjCiq1a6rCEtUMlUzN0xJOUw3UktSNUxTWkNEMUcyTzVNWS4u "Udfyld spørgeskema")
 
-\## Kontakt
+## Kontakt
 
 Hvis du har spørgsmål eller kommentar, er du velkommen til at kontakte bestyrelsesformand Anders Dissing på email \[dissing@spbg.dk\]
