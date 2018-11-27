@@ -1,13 +1,13 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+xbanner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
-partners:
+heading: SPOUG
+xpartners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
-services:
+xservices:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -16,11 +16,11 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: SharePoint og Office 365 bruger gruppe
 textline: |
-  Belkirk College of Engineering
+  SPOUG
 
-  Ora et Labora
+ 
 hero_button:
   text: Learn more
   href: "/about"
