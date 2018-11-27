@@ -55,7 +55,7 @@ Du vil snart kunn læse brugergruppen vedtægter her ...
 
 Bestyrelsen er i fuld gang med at sammensætte programmet for 2019. Men imens vi afholder ERFA møder, SharePint, m.m. bliver der arbejde på at forny brugergruppen. På en opdateret vision/mission for brugergruppen, nye fokusområder men også møde typer under overvejelse.
 
-\*_Fortælle os lidt om de mødeformer som du foretrækker samt hvilke interesser du har indenfor SharePoing og Office 365_*
+_Fortælle os lidt om de mødeformer som du foretrækker samt hvilke interesser du har indenfor SharePoint og Office 365_
 
 [Udfyld spørgeskema](https://forms.office.com/Pages/ResponsePage.aspx?id=jyLcefLIFkCL8LmQtscumDXy7pvYSc1JjCiq1a6rCEtUMlUzN0xJOUw3UktSNUxTWkNEMUcyTzVNWS4u "Udfyld spørgeskema")
 
